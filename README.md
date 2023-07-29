@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ApoorvBrooklyn
 - 👀 I’m interested in New Technologies
-- 🌱 I’m currently learning C++, WebDev
-- 💞️ I’m looking to collaborate on any WebDev Project
+- 🌱 I’m currently learning C++, DevOps
+- 💞️ I’m looking to collaborate on any DevOps 
 - 📫 Reach on LinkedIn - https://www.linkedin.com/in/apoorv-sadhale-4406061a7/
 
 <!---
