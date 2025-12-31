@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/apoorvbrooklyn" target="blank"><img src="https://img.shields.io/twitter/follow/apoorvbrooklyn?logo=twitter&style=for-the-badge" alt="apoorvbrooklyn" /></a> </p>
 
-- 🔭 I’m currently working on [Creatiing a Text to Speech Model From Scratch](https://github.com/ApoorvBrooklyn/tts.git)
+- 🔭 I’m currently working on [Creating a Text to Speech Model From Scratch](https://github.com/ApoorvBrooklyn/tts.git)
 
 - 🌱 I’m currently working with **Pytorch and Machine Vision**
 
