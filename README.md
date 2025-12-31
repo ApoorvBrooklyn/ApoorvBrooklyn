@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/apoorvbrooklyn" target="blank"><img src="https://img.shields.io/twitter/follow/apoorvbrooklyn?logo=twitter&style=for-the-badge" alt="apoorvbrooklyn" /></a> </p>
 
-- 🔭 I’m currently working on [Creatiing a Vision Model From Scratch](https://github.com/ApoorvBrooklyn/Stable-diffusion-Clone.git)
+- 🔭 I’m currently working on [Creatiing a Text to Speech Model From Scratch](https://github.com/ApoorvBrooklyn/tts.git)
 
-- 🌱 I’m currently learning **Pytorch and Machine Vision**
+- 🌱 I’m currently working with **Pytorch and Machine Vision**
 
-- 🤝 I’m looking for help with **Diffusion Models**
+- 🤝 I’m looking for help with **Text to Speech Models**
 
 - 📫 How to reach me **apoorvssadhale@gmail.com**
 
