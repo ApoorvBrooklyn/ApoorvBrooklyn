@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvbrooklyn&label=Profile%20views&color=0e75b6&style=flat" alt="apoorvbrooklyn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apoorvbrooklyn" alt="apoorvbrooklyn" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/apoorvbrooklyn" target="blank"><img src="https://img.shields.io/twitter/follow/apoorvbrooklyn?logo=twitter&style=for-the-badge" alt="apoorvbrooklyn" /></a> </p>
 
 - 🔭 I’m currently working on [GPU Optimization and Inference on Apple Silicon](https://github.com/ApoorvBrooklyn/MetalLLM)
@@ -12,6 +10,9 @@
 - 🌱 I’m currently working with **Pytorch and Machine Vision**
 
 - 🤝 I’m looking for help with ***GPU Optimization***
+  
+-  My information and blogs are available at [Here](https://apoorvsadhale.vercel.app/)
+
 
 - 📫 How to reach me **apoorvssadhale@gmail.com**
 
