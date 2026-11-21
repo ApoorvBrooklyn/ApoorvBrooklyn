@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/apoorvbrooklyn" target="blank"><img src="https://img.shields.io/twitter/follow/apoorvbrooklyn?logo=twitter&style=for-the-badge" alt="apoorvbrooklyn" /></a> </p>
 
-- 🔭 I’m currently working on [Creating a Text to Speech Model From Scratch](https://github.com/ApoorvBrooklyn/tts.git)
+- 🔭 I’m currently working on [GPU Optimization and Inference on Apple Silicon](https://github.com/ApoorvBrooklyn/MetalLLM)
 
 - 🌱 I’m currently working with **Pytorch and Machine Vision**
 
-- 🤝 I’m looking for help with **Text to Speech Models**
+- 🤝 I’m looking for help with ***GPU Optimization***
 
 - 📫 How to reach me **apoorvssadhale@gmail.com**
 
